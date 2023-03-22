@@ -1,12 +1,12 @@
 #Vectors object(atomic vectors, classes of vectors)
-/'
+'
 Logical     ex) TRUE, FALSE
 Numeric 12.3, 5, 999
 Integer 2L, 34L
 Complex 3+2i
 Character 'a', 'good'
-Raw "Hello" 는 48 64 6c 6c 6f로 저장된다.
-'/
+Raw "Hello" 는 48 64 6c 6c 6f로 저장된다. 
+'
 # R에서 가장 기본적인 R-Object 는 Vector이다. atomic vector들을 저장함.
 # Vectors는 c() 함수를 사용하여 만들 수 있다. 엘리먼트들을 벡터로 합친다는 뜻.
 # combine의 c
