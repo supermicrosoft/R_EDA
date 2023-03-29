@@ -74,4 +74,4 @@ y=c(0,1,2,3,4)
 plot(y, dunif(y, min=0,max=4), type='l', col='blue')
 skewness(dunif(y))
 kurtosis(dunif(y))
-
+#과제 iris자료 다섯수치요약
